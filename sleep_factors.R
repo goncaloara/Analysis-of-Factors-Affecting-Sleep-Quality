@@ -1,6 +1,5 @@
-#Trabalho Modelos não parametricos
+
 #Analysis of Factors Affecting Sleep Quality
-#15/01/2025
 
 Sleep_health_and_lifestyle_dataset <- read_excel("C:/Users/gonca/Downloads/Sleep_health_and_lifestyle_dataset.xlsx")
 
